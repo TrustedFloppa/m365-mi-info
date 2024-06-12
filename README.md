@@ -18,3 +18,11 @@ Run these
 
 ```pip install paho-mqtt==1.6.1```
 ```pip ./main.py```
+
+# Status
+- [x] BMS (bms info is mapped correctly, serial)
+- [ ] Speed (isn't mapped correctly)
+- [X] ESC (Voltage,Current)
+- [X] Trip time
+- [X] Uptime (in seconds)
+- [ ] Odometer (Should work)
